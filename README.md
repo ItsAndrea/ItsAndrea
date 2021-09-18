@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Andrea Fajardo Gutiérrez
-### Software Developer with emphasis on web apps 👩🏼‍🎓💻
+## Software Developer with emphasis on web apps 👩🏼‍🎓💻
 ![hello, my name is](https://user-images.githubusercontent.com/85640313/133867544-dbdc4deb-440d-4b84-b6f9-99d16ddfe3b3.png)
 ## About me
 ```javascript
