@@ -5,8 +5,8 @@ Banner
 ```javascript
 const Andrea = {
   pronouns: "she" | "her",
-  nationality: "A nice Colombian"
-  age: 18
+  nationality: "A nice Colombian",
+  age: 18,
   code: [Javascript, HTML, CSS, Python, Java],
   job: "Software Developer"
 }
