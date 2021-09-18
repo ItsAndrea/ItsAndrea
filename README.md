@@ -2,14 +2,21 @@
 ### Software Developer with emphasis on web apps 👩🏼‍🎓💻
 Banner
 ## About me
-I'm a passionate junior software developer. 
-[Decir un poco lo que hay en mi cv en forma de codigo]
-
+```javascript
+const Andrea = {
+  pronouns: "she" | "her",
+  nationality: "A nice Colombian"
+  age: 18
+  code: [Javascript, HTML, CSS, Python, Java],
+  job: "Software Developer"
+}
+console.log(Andrea);
+```
 ## Skills
 
 ## How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Fajardo_G-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://co.linkedin.com/in/andrea-fajardo-guti%C3%A9rrez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Fajardo_G-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrea-fajardo-guti%C3%A9rrez-84bb7321a)
 [![Email](https://img.shields.io/badge/agx8424@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:agx8424@gmail.com) 
 
-**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
