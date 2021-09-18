@@ -14,12 +14,12 @@ console.log(Andrea);
 ```
 ## Skills
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 <br>
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CMS](https://img.shields.io/badge/CMS-512BD4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![CMS](https://img.shields.io/badge/CMS-512BD4?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
 
 ## How to reach me
 
