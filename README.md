@@ -19,7 +19,8 @@ console.log(Andrea);
 <br>
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CMS](https://img.shields.io/badge/CMS-512BD4?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![CMS](https://img.shields.io/badge/CMS-512BD4?style=for-the-badge&logo=&logoColor=white&labelColor=61DAFB)]()
 
 ## How to reach me
 
