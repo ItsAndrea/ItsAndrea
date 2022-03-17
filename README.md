@@ -7,7 +7,7 @@ const Andrea = {
   pronouns: "she" | "her",
   nationality: "Made in Colombia",
   age: 18,
-  code: [Javascript, HTML, CSS, Python, Java, React],
+  code: [Javascript, HTML, CSS, Ruby, React],
   job: "Software Developer"
 }
 console.log(Andrea);
